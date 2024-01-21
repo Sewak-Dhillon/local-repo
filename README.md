@@ -1,3 +1,3 @@
 hello world
-my name is dhillon singh
+my name is gursewak singh
 This repository is for learning git and gitHub
